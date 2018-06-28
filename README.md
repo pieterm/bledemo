@@ -19,7 +19,7 @@ Any other nRF51 might work as well. This tutorial will focus on the Seeed Tiny B
 
 ## Get up and running
 Log in on the [Mbed](https://os.mbed.com) site, and open the **[compiler](https://os.mbed.com/compiler/#nav:/;)**. Import a new program from this repository.
-Rigth click on *My Program* -> *Import Program ...* -> *From URL ...*. Enter as *Source URL*: https://github.com/pieterm/test2 and click on *Import*.
+Rigth click on *My Program* -> *Import Program ...* -> *From URL ...*. Enter as *Source URL*: https://github.com/pieterm/bledemo and click on *Import*.
 
 Now the Tiny BLE board has to be added to the Mbed compiler. [Add Seeed Tiny BLE board](https://os.mbed.com/platforms/Seeed-Tiny-BLE/add/) to your compiler.
 
